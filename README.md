@@ -1,19 +1,19 @@
-# Assignment 5: Create a Portfolio Webpage using HTML and CSS Float Layouts
+# Assignment 6: Re-Create a Portfolio Website using CSS Flexbox
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
 
 &nbsp;
-[![mockup](mockup-1920.png)](mockup-1920.png)
+![mockup](mockup-1920.png)
 
 &nbsp;
 ## Background
 
-This assignment is designed to familiarize you with creating layouts using CSS floats, as well as creating a fully-styled website.
+This assignment is designed to familiarize you with creating layouts using CSS flexbox, as well as creating a fully-styled website.
 
 &nbsp;
 ## Setup
 
-Create a git repository titled `m5-hw5-lastname-firstname` and clone the repo to your computer. Then, create an `index.html` file and `styles.css` file in the root of your `m5-hw5-lastname-firstname` folder. After adding `html`, `head`, and `body` tags, add a `link` tag to the `head` that links your `styles.css` file.
+Create a git repository titled `m6-hw6-lastname-firstname` and clone the repo to your computer. For this assignment, you may copy over your previous assignment files and then refactor your CSS, or you may choose to start over without using your previous code.
 
 &nbsp;
 ## Instructions
@@ -28,6 +28,7 @@ Create a git repository titled `m5-hw5-lastname-firstname` and clone the repo to
         * See [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Hero Patterns](https://www.heropatterns.com/) for free patterns.
     1. A sidebar to the right of the main text that includes social media icon links for [Stack Overflow](assets/soverflow.png), [LinkedIn](assets/linkedin.png), and [GitHub](assets/git.png)
     1. A footer at the bottom of the page that includes your name.
+1. **You must use CSS Flexbox to create your layout.** Do not use CSS floats outside of wrapping text around a picture.
 1. Your markup must use proper semantic tags.
 1. Your site must be deployed to GitHub pages.
 
@@ -54,5 +55,6 @@ Please submit both a link to your repository and a link to the live site. Also p
 &nbsp;
 ## Resources
 
-* [CSS Introduction on W3 Schools](https://www.w3schools.com/css/default.asp)
-* [CSS Floats](https://www.w3schools.com/css/css_float.asp)
+* [Basic Concepts of Flexbox on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+* [A Complete Guide to Flexbox on CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [What the Flexbox? Video playlist by Wes Bos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
